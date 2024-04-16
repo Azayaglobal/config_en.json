@@ -22,7 +22,7 @@
 "layout":"header_search",
 "textOpacity":0.8,
 "fontSize":13,
-"marginBottom":0,
+"marginBottom":10,
 "alignment":"centerLeft",
 "paddingLeft":12,
 "marginTop":30,
