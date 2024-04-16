@@ -41,7 +41,7 @@
 "showNumber":false,
 "design":"swiper",
 "showBackground":false,
-"radius":0,
+"radius":5,
 "enableTimeIndicator":true,
 "height":0.3,
 "intervalTime":10,
