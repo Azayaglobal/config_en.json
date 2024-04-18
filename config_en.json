@@ -100,7 +100,7 @@
 "vPadding":0,
 "showQuantity":false,
 "showHeart":true,
-"hMargin":3,
+"hMargin":0,
 "parallaxImageRatio":1,
 "showCartButtonWithQuantity":false,
 "vMargin":0,
@@ -223,7 +223,7 @@
 "height":50
 },
 "showFloating":false,
-"colorActiveIcon":"ff1c1d21",
+"colorActiveIcon":"ff023E8A",
 "colorCart":"ff1c1d21",
 "radiusBottomLeft":0,
 "alwaysShowTabBar":true,
