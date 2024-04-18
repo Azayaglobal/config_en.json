@@ -43,7 +43,7 @@
 "showBackground":false,
 "radius":9,
 "enableTimeIndicator":true,
-"height":0.1,
+"height":0.3,
 "intervalTime":10,
 "padding":0,
 "upHeight":0,
