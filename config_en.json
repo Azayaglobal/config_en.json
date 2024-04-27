@@ -201,7 +201,7 @@
 },
 "showMinimize":false,
 "marginRight":0,
-"enableDivider":true,
+"enableDivider":false,
 "paddingBottom":10.006131677365229,
 "indicatorStyle":"none",
 "enable":true,
