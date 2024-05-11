@@ -179,7 +179,7 @@
 "Setting":{
 "TabBarConfig":{
 "enableOnTop":false,
-"color":"fff6f7f9",
+"color":"ffffff",
 "radiusTopLeft":0,
 "bottomBarStyle":"static",
 "paddingRight":0,
@@ -195,7 +195,7 @@
 "topLeftRadius":0,
 "paintingStyle":"fill",
 "distanceFromCenter":0,
-"radius":0,
+"radius":5,
 "verticalPadding":0,
 "height":0
 },
