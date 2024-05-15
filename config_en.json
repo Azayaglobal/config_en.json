@@ -17,7 +17,7 @@
          "isSafeArea":false,
          "radius":9,
          "fontWeight":0,
-         "height":44,
+         "height":55,
          "minWidth":0,
          "backgroundGradientColor":[
             
@@ -58,7 +58,7 @@
          "autoPlayVideo":true,
          "marginLeft":null,
          "layout":"bannerImage",
-         "marginBottom":7,
+         "marginBottom":30,
          "autoPlay":true,
          "items":[
             {
