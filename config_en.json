@@ -196,7 +196,7 @@
 "topLeftRadius":0,
 "paintingStyle":"fill",
 "distanceFromCenter":0,
-"radius":0,
+"radius":50,
 "verticalPadding":0,
 "height":0
 },
